@@ -64,6 +64,10 @@ Download all images: [Download zip](https://drive.google.com/file/d/12RMZo0bmJpE
    <img width="10%" src="https://res.cloudinary.com/dorzadlpq/image/upload/v1654196113/Github/radix-brasil/png/RADIX_BR_MAP_STROKE_NO_LABEL_ptnire.png">
   </a>
   
+   <a href="https://res.cloudinary.com/dorzadlpq/image/upload/v1654196106/Github/radix-brasil/png/RADIX_BR_MAP_STROKE_ALL_BLACK_gqhbhb.png">
+   <img width="10%" src="https://res.cloudinary.com/dorzadlpq/image/upload/v1654196106/Github/radix-brasil/png/RADIX_BR_MAP_STROKE_ALL_BLACK_gqhbhb.png">
+  </a>
+  
   <a href="https://res.cloudinary.com/dorzadlpq/image/upload/v1654196114/Github/radix-brasil/png/RADIX_BR_MAP_STROKE_SQUARE_BACKGROUND_WHITE_qtlsk6.png">
    <img width="10%" src="https://res.cloudinary.com/dorzadlpq/image/upload/v1654196114/Github/radix-brasil/png/RADIX_BR_MAP_STROKE_SQUARE_BACKGROUND_WHITE_qtlsk6.png">
   </a>
